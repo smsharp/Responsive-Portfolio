@@ -6,4 +6,4 @@ This is a personal portfolio utitilizing html, css and media queries to make the
 
 ### How to Run Basic-Portfolio
 
-Download the zip file from the repository, unzip and open the html document in your browser. Peruse and enjoy!
+Download the zip file from the repository, unzip and open the index.html document in your browser. Peruse and enjoy!
